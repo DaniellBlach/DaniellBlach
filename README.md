@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+{{ LANGUAGE_TEMPLATE_START }}
 {{ PHP }}
+{{ LANGUAGE_TEMPLATE_END }}
