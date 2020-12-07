@@ -3,7 +3,7 @@
 
 
 - :school: I’m currently working on university project "empolyee management system" 
-- :gun: If you want to challange me here is link to my profile on codewars: https://www.codewars.com/users/DaniellBlach
+- :gun: Here is link to my profile on codewars: https://www.codewars.com/users/DaniellBlach
 
 
 <h4>Language and tools I'm currently using</h4>
