@@ -6,6 +6,7 @@
 - :gun: Here is link to my profile on codewars: https://www.codewars.com/users/DaniellBlach
 
 <img height="32" width="32" src="https://www.codewars.com/users/DaniellBlach/badges/large" />
+<a href="https://www.codewars.com/users/hugmanrique" rel="nofollow"><img src="https://camo.githubusercontent.com/70e363fa005a11d7235db3cacde4b3ef373f5e22f8bc4b79583950618cd2100f/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f6875676d616e72697175652f6261646765732f6c61726765" alt="Profile badge" data-canonical-src="https://www.codewars.com/users/hugmanrique/badges/large" style="max-width:100%;"></a>
 <h4>Language and tools I'm currently using</h4>
 <p>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
