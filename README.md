@@ -2,7 +2,7 @@
 
 
 
-:school: I’m currently working on university project empolyee management system 
+:school: I’m currently working on university project "empolyee management system" 
 
 
 <h5>Language and tools I'm currently using</h5>
