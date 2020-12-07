@@ -5,7 +5,7 @@
 - :school: I’m currently working on university project "empolyee management system" 
 - :gun: Here is link to my profile on codewars: https://www.codewars.com/users/DaniellBlach
 
-
+<img height="32" width="32" src="https://www.codewars.com/users/DaniellBlach/badges/large" />
 <h4>Language and tools I'm currently using</h4>
 <p>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
