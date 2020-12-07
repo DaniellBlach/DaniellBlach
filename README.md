@@ -3,9 +3,7 @@
 
 
 - :school: I’m currently working on university project "empolyee management system" 
-- :gun: Here is link to my profile on codewars: https://www.codewars.com/users/DaniellBlach
 
-<img height="32" width="32" src="https://www.codewars.com/users/DaniellBlach/badges/large" />
 <a href="https://www.codewars.com/users/DaniellBlach"><img src="https://camo.githubusercontent.com/3190868e960a4334ae8e965f296d305d707bd989c39f14233da68cce858e5687/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f44616e69656c6c426c6163682f6261646765732f6c61726765" alt="Profile badge" data-canonical-src="https://www.codewars.com/users/hugmanrique/badges/large" style="max-width:100%;"></a>
 <h4>Language and tools I'm currently using</h4>
 <p>
