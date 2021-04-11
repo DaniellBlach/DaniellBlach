@@ -23,6 +23,5 @@
 <p>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img height="32" width="32" src="https://camo.githubusercontent.com/a63f9aebbb8c4ae92704dc14d054ab572d5ce2299958318ac8996bd82b4c67cd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37612f435f53686172705f6c6f676f2e7376672f37363870782d435f53686172705f6c6f676f2e7376672e706e67" /> 
 </p>
 
