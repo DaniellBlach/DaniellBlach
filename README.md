@@ -1,6 +1,6 @@
 <h1>Hello Everyone :wave:</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniellBlach&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniellBlach&show_icons=true&theme=dark&count_private=true)
 
 
 - :gun: Here is my codewars profile:
